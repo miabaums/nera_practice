@@ -110,10 +110,41 @@ form input{
     margin: auto;
     height: 30px;
     border-radius: 10px;
+    color: #3C3C3C;
 }
 
 .tilmeld{
     width: 100%;
     color: #F3F4EF;
     background-color: #779882;
+}
+
+.info{
+    height: 40vh;
+    margin: 10vh 7vh;
+}
+
+.info p{
+    padding-top: 3vh;
+}
+
+.info a{
+    text-decoration: none;
+    background-color: #779882;
+    color: #F3F4EF;
+    padding: 15px;
+    text-align: center;
+    display: inline-block;
+    border-radius: 10px;
+    margin: 4vh 0;
+}
+
+footer{
+    height: 10vh;
+    background-color: #425348;
+    color: #F3F4EF;
+    display: flex;
+    flex-direction: row;
+    gap: 30%;
+    padding: 30px;
 }
