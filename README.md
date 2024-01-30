@@ -1,0 +1,1 @@
+Jeg har ikke været der til undervisningen af Git-setuppet pga sygdom, så jeg har gjort det så godt som jeg kunne ud fra brugermanualen og youtube-guides. Jeg ved ikke helt, om jeg har løst opgaven rigtigt 
