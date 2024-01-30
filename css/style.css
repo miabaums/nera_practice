@@ -77,3 +77,43 @@ header nav i{
 #hero h2{
     font-size: 1em;
 }
+
+.join{
+    height: 50vh;
+    display: grid;
+    grid-template-columns: 60% 1fr;
+    background-color: #F3F4EF;
+    color: #3C3C3C;
+    padding: 25px;
+}
+
+.join p{
+    padding-top: 3vh;
+    margin-right: 2vh;
+}
+
+form{
+    display: grid;
+    align-content: space-evenly;
+    background-color: #425348;
+    border-radius: 40px;
+    padding: 40px;
+    margin: 50px 0;
+}
+
+form h2{
+    color: #F3F4EF;
+    margin-bottom: 20px;
+}
+
+form input{
+    margin: auto;
+    height: 30px;
+    border-radius: 10px;
+}
+
+.tilmeld{
+    width: 100%;
+    color: #F3F4EF;
+    background-color: #779882;
+}
